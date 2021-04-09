@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    background-color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.box{
+    height: 450px;
+    width: 400px;
+    background-color: white;
+    text-align: center;
+    font-size: 25px;
+    margin: auto;
+    margin-top: 70px;
+    margin-bottom: auto;
+    padding: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(90, 89, 89, 0.829);
+    font-size: 19px;
+}
+
